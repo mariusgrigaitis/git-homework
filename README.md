@@ -10,7 +10,7 @@
 
 :exclamation: Make sure you have configured your git (name, email)
 
-See #1 on how completed homework should look like
+See [#1](https://github.com/mariusgrigaitis/git-homework/pull/1) on how completed homework should look like
 
 # Useful links
 
