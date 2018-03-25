@@ -19,3 +19,4 @@ See [#1](https://github.com/mariusgrigaitis/git-homework/pull/1) on how complete
 # Useful links
 
 * https://git-scm.com/book/en/v2
+* http://ndpsoftware.com/git-cheatsheet.html
