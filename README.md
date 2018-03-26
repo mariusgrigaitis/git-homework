@@ -1,3 +1,7 @@
+# Motivation
+
+https://www.youtube.com/watch?v=4XpnKHJAok8
+
 # git homework
 
 1. Create a fork (fork button on GitHub) of this repo
@@ -15,3 +19,4 @@ See [#1](https://github.com/mariusgrigaitis/git-homework/pull/1) on how complete
 # Useful links
 
 * https://git-scm.com/book/en/v2
+* http://ndpsoftware.com/git-cheatsheet.html
