@@ -1,3 +1,7 @@
+# Motivation
+
+https://www.youtube.com/watch?v=4XpnKHJAok8
+
 # git homework
 
 1. Create a fork (fork button on GitHub) of this repo
